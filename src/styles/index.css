@@ -39,7 +39,15 @@ html, body, :host, ._buttons_bnw9n_9, .mapboxgl-map {
 tr[class*="_selected"] {
     background-color:#333;
     color: #ccc !important;
-  }
+    position: sticky;
+    bottom: 0;
+    top: 0;
+    height:50px;
+}
+
+._tableContainer_kyayk_58 {
+  overflow: visible !important;  
+}
 
 @import url('https://fonts.loli.net/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700');
 
