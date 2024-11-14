@@ -35,7 +35,7 @@ html, body, :host {
 
 tr[class*="_selected"] {
     background-color:#333;
-    color:#ccc;
+    color: #ccc !important;
   }
 
 @import url('https://fonts.loli.net/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700');
