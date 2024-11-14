@@ -41,14 +41,22 @@ tr[class*="_selected"] {
     color: #ccc !important;
     position: sticky;
     bottom: 0;
-    top: 0;
+    top: 600px;
     height:50px;
 }
 
 ._tableContainer_kyayk_58 {
   overflow: visible !important;  
 }
+.w-full.lg:w-4/5 {
+  position: relative;
+  overflow: visible;
+}
 
+.mapboxgl-map {
+  position: sticky !important;
+  top: 0;
+}
 @import url('https://fonts.loli.net/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700');
 
 @font-face {
