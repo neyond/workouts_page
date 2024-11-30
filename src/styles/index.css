@@ -42,7 +42,7 @@ tr[class*="_selected"] {
     position: sticky;
     bottom: 0;
     top: 600px;
-    height:50px;
+    font-weight:bold;
 }
 
 ._tableContainer_kyayk_58 {
