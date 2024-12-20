@@ -28,12 +28,22 @@ hr {
 }
 
 
-html, body, :host, ._buttons_bnw9n_9, .mapboxgl-map {
+html, body, text, :host, ._buttons_bnw9n_9, .mapboxgl-map {
   font-family: ZwiftSprint-Regular,Microsoft YaHei,Helvetica Neue,Arial,sans-serif !important;
   font-style: normal;
 }
+.leading-relaxed {
+  color:#646464; 
+}
+.text-2xl {
+  font-weight:normal;
+  color:#646464; 
+}
+.italic {
+  font-style:normal;
+}
 .font-extrabold {
-  font-family: ZwiftSprint-Black !important;
+  font-family: ZwiftSprint-Bold !important;
 }
 .font-bold {
   font-family: ZwiftSprint-Bold !important;
@@ -63,18 +73,8 @@ tr[class*="_selected"] {
 }
 
 @font-face {
-    font-family: ZwiftSprint-Black;
-    src: url(https://fb.eimoo.cc/static/fonts/ZwiftSprint-Black.ttf) format("truetype")
-}
-
-@font-face {
     font-family: ZwiftSprint-Bold;
     src: url(https://fb.eimoo.cc/static/fonts/ZwiftSprint-Bold.ttf) format("truetype")
-}
-
-@font-face {
-    font-family: ZwiftSprint-Medium;
-    src: url(https://fb.eimoo.cc/static/fonts/ZwiftSprint-Medium.ttf) format("truetype")
 }
 
 @font-face {
