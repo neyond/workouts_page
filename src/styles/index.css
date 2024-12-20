@@ -61,35 +61,25 @@ tr[class*="_selected"] {
   top: 0;
   background: #333;
 }
-@import url('https://fonts.loli.net/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700');
 
 @font-face {
     font-family: ZwiftSprint-Black;
-    src: url(https://www.zwift.com/fonts/ZwiftSprint-Black.woff) format("woff"),url(https://www.zwift.com/fonts/ZwiftSprint-Black.woff2) format("woff2"),url(https://www.zwift.com/fonts/ZwiftSprint-Black.ttf) format("truetype")
-}
-
-@font-face {
-    font-family: ZwiftSprint-BlackItalic;
-    src: url(https://www.zwift.com/fonts/ZwiftSprint-BlackItalic.woff) format("woff"),url(https://www.zwift.com/fonts/ZwiftSprint-BlackItalic.woff2) format("woff2"),url(https://www.zwift.com/fonts/ZwiftSprint-BlackItalic.ttf) format("truetype")
+    src: url(https://fb.eimoo.cc/static/fonts/ZwiftSprint-Black.ttf) format("truetype")
 }
 
 @font-face {
     font-family: ZwiftSprint-Bold;
-    src: url(https://www.zwift.com/fonts/ZwiftSprint-Bold.woff) format("woff"),url(https://www.zwift.com/fonts/ZwiftSprint-Bold.woff2) format("woff2"),url(https://www.zwift.com/fonts/ZwiftSprint-Bold.ttf) format("truetype")
+    src: url(https://fb.eimoo.cc/static/fonts/ZwiftSprint-Bold.ttf) format("truetype")
 }
 
 @font-face {
     font-family: ZwiftSprint-Medium;
-    src: url(https://www.zwift.com/fonts/ZwiftSprint-Medium.woff) format("woff"),url(https://www.zwift.com/fonts/ZwiftSprint-Medium.woff2) format("woff2"),url(https://www.zwift.com/fonts/ZwiftSprint-Medium.ttf) format("truetype")
+    src: url(https://fb.eimoo.cc/static/fonts/ZwiftSprint-Medium.ttf) format("truetype")
 }
 
 @font-face {
     font-family: ZwiftSprint-Regular;
-    src: url(https://www.zwift.com/fonts/ZwiftSprint-Regular.woff) format("woff"),url(https://www.zwift.com/fonts/ZwiftSprint-Regular.woff2) format("woff2"),url(https://www.zwift.com/fonts/ZwiftSprint-Regular.ttf) format("truetype")
+    src: url(https://fb.eimoo.cc/static/fonts/ZwiftSprint-Regular.ttf) format("truetype")
 }
 
-@font-face {
-    font-family: ZwiftSprint-Italic;
-    src: url(https://www.zwift.com/fonts/ZwiftSprint-Italic.woff) format("woff"),url(https://www.zwift.com/fonts/ZwiftSprint-Italic.woff2) format("woff2"),url(https://www.zwift.com/fonts/ZwiftSprint-Italic.ttf) format("truetype")
-}
-
+@import url('https://fonts.loli.net/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700');
