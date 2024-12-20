@@ -31,18 +31,23 @@ hr {
   font-family: ZwiftSprint-Regular,Microsoft YaHei,Helvetica Neue,Arial,sans-serif !important;
 }
 html, body, :host, ._buttons_bnw9n_9, .mapboxgl-map {
-  font-family: ZwiftSprint-Bold,Microsoft YaHei,Helvetica Neue,Arial,sans-serif !important;
+  font-family: ZwiftSprint-Regular,Microsoft YaHei,Helvetica Neue,Arial,sans-serif !important;
   font-weight: 400;
   font-style: normal;
 }
-
+.font-extrabold {
+  font-family: ZwiftSprint-Black !important;
+}
+.font-bold {
+  font-family: ZwiftSprint-Bold !important;
+}
 tr[class*="_selected"] {
     background-color:#333;
     color: #ccc !important;
     position: sticky;
     bottom: 0;
     top: 600px;
-    font-weight:bold;
+    font-family: ZwiftSprint-Bold !important;
 }
 
 ._tableContainer_kyayk_58 {
@@ -89,40 +94,5 @@ tr[class*="_selected"] {
 @font-face {
     font-family: ZwiftSprint-Italic;
     src: url(https://www.zwift.com/fonts/ZwiftSprint-Italic.woff) format("woff"),url(https://www.zwift.com/fonts/ZwiftSprint-Italic.woff2) format("woff2"),url(https://www.zwift.com/fonts/ZwiftSprint-Italic.ttf) format("truetype")
-}
-
-@font-face {
-    font-family: ZwiftFondo-Medium;
-    src: url(https://www.zwift.com/fonts/ZwiftFondo-Medium.woff) format("woff"),url(https://www.zwift.com/fonts/ZwiftFondo-Medium.ttf) format("truetype")
-}
-
-@font-face {
-    font-family: ZwiftFondo-Regular;
-    src: url(https://www.zwift.com/fonts/ZwiftFondo-Regular.woff) format("woff"),url(https://www.zwift.com/fonts/ZwiftFondo-Regular.woff2) format("woff2"),url(https://www.zwift.com/fonts/ZwiftFondo-Regular.ttf) format("truetype")
-}
-
-@font-face {
-    font-family: ZwiftFondo-Black;
-    src: url(https://www.zwift.com/fonts/ZwiftFondo-Black.woff) format("woff"),url(https://www.zwift.com/fonts/ZwiftFondo-Black.woff2) format("woff2"),url(https://www.zwift.com/fonts/ZwiftFondo-Black.ttf) format("truetype")
-}
-
-@font-face {
-    font-family: ZwiftFondo-Bold;
-    src: url(https://www.zwift.com/fonts/ZwiftFondo-Bold.woff) format("woff"),url(https://www.zwift.com/fonts/ZwiftFondo-Bold.woff2) format("woff2"),url(https://www.zwift.com/fonts/ZwiftFondo-Bold.ttf) format("truetype")
-}
-
-@font-face {
-    font-family: ZwiftChrono-Regular;
-    src: url(https://www.zwift.com/fonts/ZwiftChrono-Regular.woff) format("woff"),url(https://www.zwift.com/fonts/ZwiftChrono-Regular.woff2) format("woff2"),url(https://www.zwift.com/fonts/ZwiftChrono-Regular.otf) format("opentype"),url(https://www.zwift.com/fonts/ZwiftChrono-Regular.ttf) format("truetype")
-}
-
-@font-face {
-    font-family: ZwiftChrono-Light;
-    src: url(https://www.zwift.com/fonts/ZwiftChrono-Light.woff) format("woff"),url(https://www.zwift.com/fonts/ZwiftChrono-Light.woff2) format("woff2"),url(https://www.zwift.com/fonts/ZwiftChrono-Light.otf) format("opentype"),url(https://www.zwift.com/fonts/ZwiftChrono-Light.ttf) format("truetype")
-}
-
-@font-face {
-    font-family: ZwiftChrono-Bold;
-    src: url(https://www.zwift.com/fonts/ZwiftChrono-Bold.woff) format("woff"),url(https://www.zwift.com/fonts/ZwiftChrono-Bold.woff2) format("woff2"),url(https://www.zwift.com/fonts/ZwiftChrono-Bold.otf) format("opentype"),url(https://www.zwift.com/fonts/ZwiftChrono-Bold.ttf) format("truetype")
 }
 
