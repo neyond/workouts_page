@@ -71,7 +71,14 @@ tr[class*="_selected"] {
   top: 0;
   background: #333;
 }
-
+@media screen and (max-width: 960px) {
+  .mapboxgl-map {
+    height:300px !important;
+  }
+  tr[class*="_selected"] {
+    top: 300px;
+  }
+}
 @font-face {
     font-family: ZwiftSprint-Bold;
     src: url(https://fb.eimoo.cc/static/fonts/ZwiftSprint-Bold.ttf) format("truetype")
