@@ -81,12 +81,12 @@ tr[class*="_selected"] {
 }
 @font-face {
     font-family: ZwiftSprint-Bold;
-    src: url(https://fb.eimoo.cc/static/fonts/ZwiftSprint-Bold.ttf) format("truetype")
+    src: url(https://rs-eimoo.112030.xyz/static/fonts/ZwiftSprint-Bold.ttf) format("truetype")
 }
 
 @font-face {
     font-family: ZwiftSprint-Regular;
-    src: url(https://fb.eimoo.cc/static/fonts/ZwiftSprint-Regular.ttf) format("truetype")
+    src: url(https://rs-eimoo.112030.xyz/static/fonts/ZwiftSprint-Regular.ttf) format("truetype")
 }
 
 @import url('https://fonts.loli.net/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700');
