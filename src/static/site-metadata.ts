@@ -12,18 +12,18 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Workouts Map',
-  siteUrl: 'https://go.eimoo.com',
-  logo: 'https://eimoo.com/service/avatar/0ab4d0eec14aa1dc634d6d75dffe80d9',
+  siteUrl: 'https://run.eimoo.com',
+  logo: 'https://rs-eimoo.112030.xyz/static/avatar_admin.png',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
       name: 'Blog',
-      url: 'https://eimoo.com',
+      url: 'https://www.eimoo.com',
     },
     {
       name: 'About',
-      url: 'https://eimoo.com/about',
+      url: 'https://www.eimoo.com/about',
     },
     {
       name: 'Strava',
