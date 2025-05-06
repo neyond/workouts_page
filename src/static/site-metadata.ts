@@ -11,7 +11,7 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Workouts Map',
+  siteTitle: "Yang's Workouts Map",
   siteUrl: 'https://run.eimoo.com',
   logo: 'https://rs-eimoo.112030.xyz/static/avatar_admin.png',
   description: 'Personal site and blog',
